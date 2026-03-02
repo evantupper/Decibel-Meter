@@ -8,11 +8,11 @@ In the future, this program will be able to provide a customizable amount of "li
 
 ## Roadmap
 
-[-] Create a timeline to display an averaged sound overtime
+[x] Create a timeline to display an averaged sound overtime
 
 [-] Implement the lives system, along with a changing background and audio warnings at a customizable interval
 
-[-] Implement a buttons system, which will hold support for incrementing or decrementing lives, pausing, muting, etc.
+[x] Implement a buttons system, which will hold support for incrementing or decrementing lives, pausing, muting, etc.
 
 [-] Create a pop-off setting menu, which would allow the changing of key variable
 
