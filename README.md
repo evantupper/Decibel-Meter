@@ -1,4 +1,8 @@
 
+# UPDATE
+
+This project is currently outdated. Newer versions of the build are not yet published on this repository.
+
 # Decibel Meter
 
 Without consistent and strict control, many classrooms may devolve into loud and playful settings. In consequence, this deteriorates the learning abilities of the students. This project works to create a sound monitoring system that helps classrooms self regulate noise levels. It does not record any audio, share data, or make any internet connections.
